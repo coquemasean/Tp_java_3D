@@ -1,3 +1,0 @@
-public class Earth {
-    //test
-}
