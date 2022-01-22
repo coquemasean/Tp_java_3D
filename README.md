@@ -9,6 +9,13 @@ Ce travail s'inscrit dans la matière Java/UML enseigné à l'ENSEA par Nicolas 
 Il s’agit d’un petit utilitaire permettant d’afficher quelques données relatives à l’aviation de tourisme.
 Dans ces scéances de tp j'ai utilisé des données statiques (la liste des a ́eroports mondiaux au format.csv) et une source de données dynamiques (une API sur le site aviationstack.com).
 
+## Logiciel
+
+Utilisation de Intellij IDEA Community Edition 2021.3.1
+
+Nous travaillerons dans un projet Java standard, de type Java 16 (11 minimum pour l’usage de JavaFX et
+des paquets de lecture JSON)
+
 ## Structure UML 
 ![Capture](https://user-images.githubusercontent.com/46956234/150637311-cb54321a-cde2-4887-8c01-8ba8b2ae5b7f.PNG)
 
